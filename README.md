@@ -40,6 +40,13 @@ java -cp target/classes com.yourpackage.Server
 **Enter your username (if applicable) and start sending messages.**
 
 **Open multiple browser windows or use different devices to simulate multiple clients.**
+
+## Sreenshot
+<img width="1859" height="838" alt="Screenshot 2025-12-07 194722" src="https://github.com/user-attachments/assets/ef2a2e45-37fe-4a4a-bedb-8fb69d786e8b" />
+
+<img width="1814" height="763" alt="Screenshot 2025-12-07 194939" src="https://github.com/user-attachments/assets/2a363ca2-3e78-4a03-bf24-15b645397f45" />
+
+
 ## 📄 License
 
 This project is open-source. Feel free to use, modify, and distribute it under the terms of MIT License (or change to your preferred license).
