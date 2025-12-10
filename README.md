@@ -42,9 +42,12 @@ java -cp target/classes com.yourpackage.Server
 **Open multiple browser windows or use different devices to simulate multiple clients.**
 
 ## Sreenshot
-<img width="1859" height="838" alt="Screenshot 2025-12-07 194722" src="https://github.com/user-attachments/assets/ef2a2e45-37fe-4a4a-bedb-8fb69d786e8b" />
+<img width="1886" height="816" alt="Screenshot 2025-12-10 132113" src="https://github.com/user-attachments/assets/542c7a31-2978-4f74-b064-4f54509c638d" />
+<img width="1872" height="463" alt="Screenshot 2025-12-10 132146" src="https://github.com/user-attachments/assets/a7ac34c3-dc65-429a-b6d0-cfc277276776" />
 
-<img width="1814" height="763" alt="Screenshot 2025-12-07 194939" src="https://github.com/user-attachments/assets/2a363ca2-3e78-4a03-bf24-15b645397f45" />
+<img width="1865" height="983" alt="Screenshot 2025-12-10 132051" src="https://github.com/user-attachments/assets/ddc469c7-9669-4afe-b0c1-bef0092a06d6" />
+
+
 
 
 ## 📄 License
